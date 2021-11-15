@@ -38,9 +38,9 @@
 - ## PROGRAM GAJI PEGAWAI
 
 > ### Source Code<br>
-![images (11)](https://user-images.githubusercontent.com/93045470/141816751-fe2e855c-2c20-49bb-99a1-156783bff52f.png)<br>
+![images (11)](https://user-images.githubusercontent.com/93045470/141821849-674c3c1b-07e8-4af2-89ee-24fc1a33a1c4.png)<br>
 > ### Hasil Output<br>
-![images (12)](https://user-images.githubusercontent.com/93045470/141813445-473d9918-8979-4931-a2c9-824bd816eb56.png)
+![images (12)](https://user-images.githubusercontent.com/93045470/141821858-f0e789f3-fb14-4267-ba8d-10f0f259b1ae.png)
 
 - ## PROGRAM NILAI UANG
 
