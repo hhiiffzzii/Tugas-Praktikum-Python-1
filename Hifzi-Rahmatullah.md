@@ -44,13 +44,14 @@
 - ## PROGRAM NILAI UANG
 
 > ### Source Code<br>
-![images (11)](https://user-images.githubusercontent.com/93045470/141803048-3642b2ae-43d9-4ff0-b26a-dd697946af4e.png)<br>
+![images (13)](https://user-images.githubusercontent.com/93045470/141807276-97d117a0-1a59-436d-a9f7-c9930ea38da6.png)<br>
 > ### Hasil Output<br>
-![images (12)](https://user-images.githubusercontent.com/93045470/141803061-93b13212-8af3-489a-8a4c-96fa9d53288d.png)
+![images (14)](https://user-images.githubusercontent.com/93045470/141807376-255b782d-2c42-4c4e-8f29-cafef7e6a30b.png)
 
 - ## PROGRAM GAJI DAN HUTANG
 
 > ### Source Code<br>
-<br>
-> ### Hasil Output<br>
 
+![images (15)](https://user-images.githubusercontent.com/93045470/141809001-36c88fc9-552e-4144-b33b-cd7f59ba9587.png)<br>
+> ### Hasil Output<br>
+![images (16)](https://user-images.githubusercontent.com/93045470/141809010-938a17e2-f40b-4a85-bf92-49febbba6c18.png)
