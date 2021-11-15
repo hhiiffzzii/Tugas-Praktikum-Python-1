@@ -31,15 +31,16 @@
 - ## PROGRAM MENGHITUNG TAGIHAN TELEPON
 
 > ### Source Code<br>
-<br>
+![images (11)](https://user-images.githubusercontent.com/93045470/141813192-266036cf-b1be-4987-9ca4-65351838b14c.png)<br>
 > ### Hasil Output<br>
-
+![images (12)](https://user-images.githubusercontent.com/93045470/141813215-b33df6c6-8b67-48c5-9fdd-42f7300925b5.png)
 
 - ## PROGRAM GAJI PEGAWAI
 
 > ### Source Code<br>
-<br>
+![images (9)](https://user-images.githubusercontent.com/93045470/141813434-dd00f05d-5c3c-456e-b221-eaf7f6b7d977.png)<br>
 > ### Hasil Output<br>
+![images (10)](https://user-images.githubusercontent.com/93045470/141813445-473d9918-8979-4931-a2c9-824bd816eb56.png)
 
 - ## PROGRAM NILAI UANG
 
